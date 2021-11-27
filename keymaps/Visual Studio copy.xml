@@ -1,0 +1,42 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt equals" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="GuiDesigner.ShrinkSelection">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="SmartSelect">
+    <keyboard-shortcut first-keystroke="shift alt equals" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="SmartUnSelect">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="TableResult.GrowSelection">
+    <keyboard-shortcut first-keystroke="shift alt equals" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="TableResult.ShrinkSelection">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+</keymap>
